@@ -1,4 +1,4 @@
-                                                              # IphoneSales_EDA
+   # IphoneSales_EDA
 
 To create a project for iPhone sales exploratory data analysis using Jupyter Notebook, follow these steps:
 
